@@ -4,11 +4,11 @@ body {
 
 h1 { 
   font-family: "Crimson Text"; 
-  font-size: 24px; 
+  font-size: 48px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 700; 
-  line-height: 27px; 
+  line-height: 54px; 
 }
 
 .center {
@@ -16,5 +16,4 @@ h1 {
   text-align: center;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
 }
